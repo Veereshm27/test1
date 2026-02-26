@@ -99,7 +99,7 @@ I specialize in streamlining software delivery through automation.
 <h3>Deployment Time (IST):</h3>
 <p><strong><%= istTime.format(formatter) %></strong></p>
 
-    <a href="https://www.linkedin.com/in/kavya-r-b2a29417b/"
+    <a href="https://www.linkedin.com/in/veeresh-m-9716862a3"
        target="_blank"
        class="btn">
        Connect with me on LinkedIn
